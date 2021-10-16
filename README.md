@@ -1,4 +1,4 @@
-## Hi there, it's Borja[Fbponz](https://www.linkedin.com/in/borja-ponz-camps-43248965/).
+## Hi there, it's Borja Ponz [LinkedIN](https://www.linkedin.com/in/borja-ponz-camps-43248965/).
 
 I'm an electronic engineer and passionate developer. Currently, I am working for [Mahle](https://www.mahle.com) in electromobility. My current roles are Software engineer, Testing engineer, and also integration engineer. 
 
