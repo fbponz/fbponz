@@ -11,9 +11,9 @@ I can write code in the following languages:
 + Swift
 
 Currently, I'm learning new languages:
-+ Javascript
-+ Html
-+ CSS
++ Typescript
++ Next.JS
++ TailwindCSS
 
 I have the following Skills:
 + UML Design.
