@@ -9,11 +9,6 @@ I can write code in the following languages:
 + Assembly
 + Python
 
-Currently, I'm learning new languages:
-+ Typescript
-+ Next.JS
-+ TailwindCSS
-
 I have the following Skills:
 + UML Design.
 + Embedded software design.
