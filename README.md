@@ -8,7 +8,6 @@ I can write code in the following languages:
 + C/C++
 + Assembly
 + Python
-+ Swift
 
 Currently, I'm learning new languages:
 + Typescript
