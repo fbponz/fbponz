@@ -2,7 +2,7 @@
 
 I'm an electronic engineer and passionate developer. Currently, I am working for [Mahle](https://www.mahle.com) in electromobility. My current roles are Software engineer, Testing engineer, and also integration engineer. 
 
-Recently, I finished a Master's Degree in data analytics on [EDEM](https://edem.eu/master-big-data-analytics/). I discovered a new field to research and develop products. I love data :D
+Recently, I finished a Master's Degree in data analytics on [EDEM](https://edem.eu/master-big-data-analytics/).
 
 I can write code in the following languages:
 + C/C++
