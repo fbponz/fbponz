@@ -1,8 +1,7 @@
 ## Hi there, it's Borja Ponz. 
 
-I'm an electronic engineer and passionate developer. Currently, I am working for [Mahle](https://www.mahle.com) in electromobility. My current roles are Software engineer, Testing engineer, and also integration engineer. 
+I'm an electronic engineer and passionate developer. Currently, I am working for [Mahle](https://www.mahle.com) in electromobility. My current roles are Software engineer also integration engineer. 
 
-Recently, I finished a Master's Degree in data analytics on [EDEM](https://edem.eu/master-big-data-analytics/).
 
 I can write code in the following languages:
 + C/C++
@@ -18,15 +17,7 @@ I have the following Skills:
 + Robotic Operating System [ROS](https://www.ros.org).
 + Path planning algorithms
 + SLAM
-+ NIFI
-+ ELK Stack(ElasticSearch, Logstash, Kibana)
-+ RDBMS (PostgresSQL)
-+ SQL
-+ Docker 
 
-Currently, I am studying to get some cloud certifications
-+ Google Cloud Platform [Foundational](https://cloud.google.com/certification).
-+ Amazon Web Services [Practitioner](https://aws.amazon.com/es/certification/).
 
 You can found some interesting projects:
 
