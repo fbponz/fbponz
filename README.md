@@ -7,6 +7,7 @@ I can write code in the following languages:
 + C/C++
 + Assembly
 + Python
++ Rust
 
 I have the following Skills:
 + UML Design.
@@ -14,9 +15,8 @@ I have the following Skills:
 + Version Control of course [GIT]
 + Unit-testing [Tessy](https://www.razorcat.com/en/product-tessy.html).
 + Static Analysis [Helix_QAC](https://www.perforce.com/products/helix-qac).
-+ Robotic Operating System [ROS](https://www.ros.org).
-+ Path planning algorithms
-+ SLAM
++ Automotive industry developments
++ CMake
 
 
 You can found some interesting projects:
