@@ -1,6 +1,6 @@
 ## Hi there, it's Borja Ponz. 
 
-I'm an electronic engineer and passionate developer. Currently, I am working for [Mahle](https://www.mahle.com) in electromobility. My current roles are Software engineer also integration engineer. 
+I'm an electronic engineer and passionate developer. Currently, I am working for [Mahle](https://www.mahle.com) in electromobility. My current roles are Software engineer, integration engineer and software leader.
 
 
 I can write code in the following languages:
