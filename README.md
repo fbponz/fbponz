@@ -5,9 +5,7 @@ I'm an electronic engineer and passionate developer. Currently, I am working for
 
 I can write code in the following languages:
 + C/C++
-+ Assembly
 + Python
-+ Rust
 
 I have the following Skills:
 + UML Design.
